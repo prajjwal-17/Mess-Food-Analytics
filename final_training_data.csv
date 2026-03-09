@@ -1,0 +1,289 @@
+Mess,Month,Meal,Waste_KG,Plates,Waste_Percent,Estimated_Dish
+D-MESS,Apr-23,BF,1006,24455,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Apr-23,LUNCH,3161,31425,10,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Apr-23,SNACKS,0,31350,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Apr-23,DINNER,3175,31360,10,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,May-23,BF,1023,24240,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,May-23,LUNCH,3024,29827,10,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,May-23,SNACKS,0,32415,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,May-23,DINNER,3754,32415,12,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Jun-23,BF,15,1360,1,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Jun-23,LUNCH,30,1655,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Jun-23,SNACKS,0,840,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Jun-23,DINNER,0,840,0,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Jul-23,BF,408,12465,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Jul-23,LUNCH,1095,19740,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Jul-23,SNACKS,0,21090,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Jul-23,DINNER,1117,21090,5,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Aug-23,BF,1181,24580,5,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Aug-23,LUNCH,2453,40135,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Aug-23,SNACKS,0,43220,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Aug-23,DINNER,2479,43100,6,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Sep-23,BF,1821,22752,8,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Sep-23,LUNCH,3057,37614,8,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Sep-23,SNACKS,0,42907,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Sep-23,DINNER,3583,44457,8,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Oct-23,BF,745,13135,6,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Oct-23,LUNCH,2194,24626,9,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Oct-23,SNACKS,0,24790,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Oct-23,DINNER,2264,26240,9,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Nov-23,BF,1006,12493,8,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Nov-23,LUNCH,1977,21964,9,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Nov-23,SNACKS,0,26996,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Nov-23,DINNER,2411,26996,9,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Dec-23,BF,205,4976,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Dec-23,LUNCH,468,8673,5,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Dec-23,SNACKS,0,10715,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Dec-23,DINNER,525,10715,5,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Jan-24,BF,0,1395,0,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Jan-24,LUNCH,0,1250,0,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Jan-24,SNACKS,0,3480,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Jan-24,DINNER,0,3480,0,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Feb-24,BF,887,22356,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Feb-24,LUNCH,1680,43656,4,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Feb-24,SNACKS,0,51643,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Feb-24,DINNER,1867,51643,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+D-MESS,Mar-24,BF,1013,21414,5,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+D-MESS,Mar-24,LUNCH,1720,49248,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+D-MESS,Mar-24,SNACKS,0,47967,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+D-MESS,Mar-24,DINNER,2248,47967,5,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Apr-23,BF,892,24014,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Apr-23,LUNCH,2577,30024,9,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Apr-23,SNACKS,0,30414,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Apr-23,DINNER,2661,30515,9,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,May-23,BF,968,24933,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,May-23,LUNCH,2616,29981,9,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,May-23,SNACKS,0,32475,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,May-23,DINNER,2750,32457,8,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Jun-23,BF,25,689,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Jun-23,LUNCH,71,767,9,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Jun-23,SNACKS,0,0,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Jun-23,DINNER,0,0,0,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Jul-23,BF,346,13142,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Jul-23,LUNCH,1914,23067,8,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Jul-23,SNACKS,0,24442,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Jul-23,DINNER,1990,24442,8,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Aug-23,BF,959,27526,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Aug-23,LUNCH,1420,43960,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Aug-23,SNACKS,0,45974,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Aug-23,DINNER,1552,45974,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Sep-23,BF,948,26195,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Sep-23,LUNCH,1210,41511,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Sep-23,SNACKS,0,46272,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Sep-23,DINNER,1390,46272,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Oct-23,BF,694,26369,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Oct-23,LUNCH,882,43172,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Oct-23,SNACKS,0,45651,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Oct-23,DINNER,985,45652,2,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Nov-23,BF,734,27719,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Nov-23,LUNCH,889,40837,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Nov-23,SNACKS,0,46388,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Nov-23,DINNER,1052,46388,2,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Dec-23,BF,237,8377,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Dec-23,LUNCH,306,9939,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Dec-23,SNACKS,0,9655,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Dec-23,DINNER,436,9655,5,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Jan-24,BF,121,8000,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Jan-24,LUNCH,160,12378,1,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Jan-24,SNACKS,0,12944,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Jan-24,DINNER,165,13894,1,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Feb-24,BF,781,27498,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Feb-24,LUNCH,890,47297,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Feb-24,SNACKS,0,54188,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Feb-24,DINNER,1009,54188,2,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+J-MESS,Mar-24,BF,898,27497,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+J-MESS,Mar-24,LUNCH,1066,48611,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+J-MESS,Mar-24,SNACKS,0,55935,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+J-MESS,Mar-24,DINNER,1231,55805,2,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Apr-23,BF,114,5650,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Apr-23,LUNCH,388,6976,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Apr-23,SNACKS,0,7226,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Apr-23,DINNER,393,7186,5,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,May-23,BF,119,5100,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,May-23,LUNCH,387,7038,5,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,May-23,SNACKS,0,7324,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,May-23,DINNER,400.5,7272,6,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Jun-23,BF,126,3090,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Jun-23,LUNCH,317.5,3286,10,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Jun-23,SNACKS,0,3314,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Jun-23,DINNER,352,3311,11,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Jul-23,BF,83,1175,7,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Jul-23,LUNCH,177.5,1258,14,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Jul-23,SNACKS,0,1326,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Jul-23,DINNER,145,1161,12,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Aug-23,BF,198.5,9722,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Aug-23,LUNCH,269.5,10815,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Aug-23,SNACKS,0,11822,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Aug-23,DINNER,275.5,11822,2,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Sep-23,BF,205,10380,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Sep-23,LUNCH,297,12067,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Sep-23,SNACKS,0,12467,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Sep-23,DINNER,341,12467,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Oct-23,BF,183,9230,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Oct-23,LUNCH,309,18922,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Oct-23,SNACKS,0,12152,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Oct-23,DINNER,382,12142,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Nov-23,BF,181,8170,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Nov-23,LUNCH,376,11536,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Nov-23,SNACKS,0,12450,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Nov-23,DINNER,469,12450,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Dec-23,BF,116,5311,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Dec-23,LUNCH,241,6570,4,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Dec-23,SNACKS,0,7129,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Dec-23,DINNER,301,7162,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Jan-24,BF,135,6037,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Jan-24,LUNCH,245,10480,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Jan-24,SNACKS,0,8330,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Jan-24,DINNER,299,8360,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Feb-24,BF,167,8028,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Feb-24,LUNCH,444,11052,4,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Feb-24,SNACKS,0,11849,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Feb-24,DINNER,491,11879,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+MEENAKSHI,Mar-24,BF,133,8205,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+MEENAKSHI,Mar-24,LUNCH,541,11050,5,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+MEENAKSHI,Mar-24,SNACKS,0,11915,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+MEENAKSHI,Mar-24,DINNER,638,11915,5,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Apr-23,BF,1427,48200,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Apr-23,LUNCH,10643,121200,9,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Apr-23,SNACKS,0,130150,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Apr-23,DINNER,10890,130150,8,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,May-23,BF,1280,50086,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,May-23,LUNCH,10980,107468,10,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,May-23,SNACKS,0,115715,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,May-23,DINNER,11785,115715,10,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Jun-23,BF,542,23055,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Jun-23,LUNCH,4729,30900,15,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Jun-23,SNACKS,0,29387,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Jun-23,DINNER,5537,29387,19,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Jul-23,BF,1483,12800,12,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Jul-23,LUNCH,2564,13840,19,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Jul-23,SNACKS,0,13830,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Jul-23,DINNER,2478,13930,18,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Aug-23,BF,1147,78261,1,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Aug-23,LUNCH,4944,148950,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Aug-23,SNACKS,0,155693,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Aug-23,DINNER,5520,161800,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Sep-23,BF,954,70200,1,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Sep-23,LUNCH,4156,137020,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Sep-23,SNACKS,0,147900,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Sep-23,DINNER,5026,149800,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Oct-23,BF,894,69470,1,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Oct-23,LUNCH,4514,143600,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Oct-23,SNACKS,0,155150,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Oct-23,DINNER,5478,155150,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Nov-23,BF,1041,66970,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Nov-23,LUNCH,4501,147220,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Nov-23,SNACKS,0,166910,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Nov-23,DINNER,5820,166910,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Dec-23,BF,694,41510,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Dec-23,LUNCH,3254,85051,4,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Dec-23,SNACKS,0,78921,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Dec-23,DINNER,4447,79121,6,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Jan-24,BF,765,63766,1,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Jan-24,LUNCH,3937,120981,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Jan-24,SNACKS,0,112366,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Jan-24,DINNER,4753,113466,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Feb-24,BF,1120,54206,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Feb-24,LUNCH,3907,155689,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Feb-24,SNACKS,0,168926,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Feb-24,DINNER,5306,165326,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SANNASI,Mar-24,BF,876,51533,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SANNASI,Mar-24,LUNCH,4498,162869,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SANNASI,Mar-24,SNACKS,0,171597,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SANNASI,Mar-24,DINNER,5796,171598,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Apr-23,BF,1131,18560,6,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Apr-23,LUNCH,2109,23780,9,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Apr-23,SNACKS,0,25070,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Apr-23,DINNER,1918,24990,8,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,May-23,BF,1101,19820,6,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,May-23,LUNCH,1559,22415,7,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,May-23,SNACKS,0,24565,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,May-23,DINNER,2017,24155,8,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Jun-23,BF,552,9630,6,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Jun-23,LUNCH,834,10435,8,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Jun-23,SNACKS,0,11113,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Jun-23,DINNER,903,11048,8,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Jul-23,BF,692,18070,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Jul-23,LUNCH,983,20685,5,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Jul-23,SNACKS,0,22218,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Jul-23,DINNER,1171,22218,5,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Aug-23,BF,926,28621,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Aug-23,LUNCH,1180,33720,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Aug-23,SNACKS,0,37262,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Aug-23,DINNER,1454,37262,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Sep-23,BF,768,25850,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Sep-23,LUNCH,1160,33820,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Sep-23,SNACKS,0,36740,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Sep-23,DINNER,1434,36770,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Oct-23,BF,767,23980,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Oct-23,LUNCH,1162,37370,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Oct-23,SNACKS,0,43070,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Oct-23,DINNER,1428,43070,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Nov-23,BF,656,25900,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Nov-23,LUNCH,1094,35500,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Nov-23,SNACKS,0,39475,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Nov-23,DINNER,1241,39475,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Dec-23,BF,389,15635,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Dec-23,LUNCH,659,20235,3,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Dec-23,SNACKS,0,21520,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Dec-23,DINNER,838,21640,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Jan-24,BF,254,20310,1,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Jan-24,LUNCH,424,24910,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Jan-24,SNACKS,0,26700,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Jan-24,DINNER,530,27480,2,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Feb-24,BF,532,28741,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Feb-24,LUNCH,971,42120,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Feb-24,SNACKS,0,44180,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Feb-24,DINNER,1156,44180,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+SENBAGAM,Mar-24,BF,596,28770,2,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+SENBAGAM,Mar-24,LUNCH,1096,45250,2,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+SENBAGAM,Mar-24,SNACKS,0,46430,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+SENBAGAM,Mar-24,DINNER,1246,46430,3,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Apr-23,BF,716,12528,6,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Apr-23,LUNCH,1499,17466,9,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Apr-23,SNACKS,0,7781,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Apr-23,DINNER,521,7044,7,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,May-23,BF,729,13951,5,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,May-23,LUNCH,1567,22240,7,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,May-23,SNACKS,0,9990,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,May-23,DINNER,590,9990,6,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Jun-23,BF,902,18063,5,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Jun-23,LUNCH,1630,23297,7,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Jun-23,SNACKS,0,12504,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Jun-23,DINNER,714,12539,6,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Jul-23,BF,1064,24139,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Jul-23,LUNCH,1694,27619,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Jul-23,SNACKS,0,18746,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Jul-23,DINNER,812,18746,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Aug-23,BF,983,24507,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Aug-23,LUNCH,1706,26746,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Aug-23,SNACKS,0,19371,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Aug-23,DINNER,809,19514,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Sep-23,BF,697,23272,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Sep-23,LUNCH,1443,22932,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Sep-23,SNACKS,0,16988,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Sep-23,DINNER,683,16988,4,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Oct-23,BF,744,22343,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Oct-23,LUNCH,1644,27087,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Oct-23,SNACKS,0,13532,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Oct-23,DINNER,675,13532,5,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Nov-23,BF,713,20244,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Nov-23,LUNCH,1525,21583,7,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Nov-23,SNACKS,0,10143,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Nov-23,DINNER,647,10143,6,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Dec-23,BF,762,20462,4,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Dec-23,LUNCH,1474,21808,7,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Dec-23,SNACKS,0,8604,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Dec-23,DINNER,566,8604,7,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Jan-24,BF,679,21647,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Jan-24,LUNCH,1287,21145,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Jan-24,SNACKS,0,8859,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Jan-24,DINNER,575,8689,7,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Feb-24,BF,702,20814,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Feb-24,LUNCH,1233,21988,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Feb-24,SNACKS,0,6774,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Feb-24,DINNER,470,6777,7,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
+STAFF MESS,Mar-24,BF,691,21427,3,Idli/Dosa/Poha/Bread/Pongal/Chappathi/Vada/Upma/Poori/Potato Masala
+STAFF MESS,Mar-24,LUNCH,1225,22148,6,"Rice/Dal/Sabzi/Curd/Palak Panneer/Chicken Curry/Kashmiri Dum Aloo/Dal Tadka,"
+STAFF MESS,Mar-24,SNACKS,0,7053,0,"Tea/Biscuits/Samosa/Pav Baji,Pani Poori/Bonda"
+STAFF MESS,Mar-24,DINNER,473,7053,7,Roti/Paneer/Chicken/Rice/Jeera Dal/Panjabi Paratha/Steamed Rice/Vegetable Curry/Veg Kuruma
