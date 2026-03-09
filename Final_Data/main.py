@@ -15,7 +15,7 @@ app.add_middleware(
 
 # --- PHASE 1 DATA LOADING ---
 # Load the CSV you cleaned earlier
-df = pd.read_csv('D:\Mess-Food-Analytics\Data\mess_monthly_waste_analysis.csv')
+df = pd.read_csv('../Data/mess_monthly_waste_analysis.csv')
 
 # Simulated state for the hackathon (In a real app, this is a database)
 # This tracks how many students clicked "SKIP" on the app today
