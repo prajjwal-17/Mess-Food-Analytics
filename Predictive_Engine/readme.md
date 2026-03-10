@@ -58,7 +58,7 @@ SANNASI serves ~102,000 plates/month on average — roughly 4× that of D-MESS. 
 
 ## Pipeline Versions
 
-### `plate_prediction_pipeline.py` — Version 1
+### `predictionEngine.ipynb` — Version 1
 
 **Approach:** Feature-rich baseline using mess, meal, month, and multi-hot dish encoding.
 
@@ -83,7 +83,7 @@ SANNASI serves ~102,000 plates/month on average — roughly 4× that of D-MESS. 
 
 ---
 
-### `plate_prediction_v3.py` — Version 2 Current Best
+### `predictiveEngineV2.ipynb` — Version 2
 
 **What changed:**
 
@@ -121,7 +121,41 @@ SANNASI serves ~102,000 plates/month on average — roughly 4× that of D-MESS. 
 
 ---
 
-##  Dish Popularity Weights
+### `predictionEngineV3.ipynb` — Version 3 Current Best
+
+**What changed from V2:**
+
+The core insight here is that not all registered students actually show up — students skip meals for various reasons (early morning timings, being off-campus, eating outside). V3 incorporates **meal-weighted monthly skip counts** as a feature, and shifts the prediction target from gross plates to **net plates** (plates actually served after skips).
+
+**Skip rate assumptions based on real student behaviour:**
+
+| Meal | Skip Rate Range | Reason |
+|---|---|---|
+| BF | 18–30% | Earliest meal (6:30–9AM), classes start at 8AM |
+| SNACKS | 12–22% | Optional meal, students often off-campus |
+| DINNER | 8–16% | Some students eat outside |
+| LUNCH | 3–9% | Peak meal, lowest skip rate |
+
+Skip rates are further amplified during semester break months (Jun, Jan) and end-of-semester months (May, Dec) to reflect reduced campus presence.
+
+**New feature vs V3:** `total_skips` — monthly count of meal opt-outs
+
+**New target vs V3:** `net_plates` = `Plates - total_skips` (what the kitchen actually needs to serve)
+
+**Results:**
+
+| Model | MAE | MAPE | R² |
+|---|---|---|---|
+| Random Forest | ~4,542 plates | 29.9% | 0.957 |
+| **Gradient Boosting** | **~4,202 plates** | **27.2%** | **0.967** |
+
+**Improvement over V2:** MAPE dropped from 33.7% → 27.2%. Training error improved from 11.8% → 7.0%. The model now predicts what the kitchen actually needs to prepare, not just raw registrations.
+
+> **Note:** Skip counts in V3 are currently simulated using the rates above. Once a real skip registration system is in place (e.g. students opting out the day before via a form), swap the simulated values with actual data — the pipeline stays identical.
+
+---
+
+## Dish Popularity Weights
 
 Since menus are fixed per mess, raw dish presence adds no variation. Instead, each dish is assigned a **popularity score (0.0–1.0)** representing how much it drives student turnout. These are domain-knowledge priors.
 
@@ -156,12 +190,13 @@ These scores are collapsed into `menu_avg`, `menu_max`, `menu_min`, and `menu_su
 | **MAPE (Mean Absolute % Error)** | Average % error — more intuitive across different mess sizes |
 | **R²** | How much variance the model explains (1.0 = perfect) |
 
-> **Training error (~10%) vs CV error (~33%):** The 10% error seen on training data is optimistic — the model has already seen those rows. The honest real-world estimate is the **CV MAPE of ~33%**, which will improve as more monthly data is added.
+> **Training error vs CV error:** Training error (~7% in V4) is optimistic — the model has already seen those rows. The honest real-world estimate is the **CV MAPE (~27% in V4)**, which will improve as more monthly data and real skip counts are added.
 
 ---
 
 ## Usage
 
+**V2 — predict gross plate count:**
 ```python
 # Predict plates for a given mess, meal, and month
 predicted = predict_plates(
@@ -170,14 +205,18 @@ predicted = predict_plates(
     month_str = 'Aug-24'
 )
 print(f"Predicted plates: {predicted:,}")
+```
 
-# With a custom/experimental menu
-predicted = predict_plates(
+**V3 — predict net plates after skips:**
+```python
+# Provide expected monthly skip count for that mess+meal
+predicted = predict_net_plates(
     mess           = 'D-MESS',
     meal           = 'LUNCH',
     month_str      = 'Aug-24',
-    custom_dishes  = ['biryani', 'chicken', 'curd', 'rice']
+    expected_skips = 800        # students who opted out this month
 )
+print(f"Net plates to prepare for: {predicted:,}")
 ```
 
 ---
@@ -185,9 +224,9 @@ predicted = predict_plates(
 ## Repository Structure
 
 ```
-├── final_training_data.csv        # Raw processed dataset
-├── plate_prediction_pipeline.py   # V1 — baseline pipeline
-├── plate_prediction_v3.py         # V3 — current best pipeline
+├── predictionEngine.ipynb   # V1 — baseline pipeline
+├── predictionEngineV2.nbipy         # V2 — dish weights + academic calendar
+├── predictionEngineV3.ipynb        # V3 — skip-adjusted net plate prediction
 └── README.md                      # This file
 ```
 
@@ -195,10 +234,11 @@ predicted = predict_plates(
 
 ## Next Steps
 
+- **Real skip data collection** — replace simulated skips with actual student opt-outs via a day-prior registration form; this is the single most impactful improvement for V4
 - **Daily data collection** — monthly aggregation limits day-of-week signals; daily records would unlock much more granular predictions
 - **Exam schedule integration** — exam periods suppress turnout; adding an `is_exam_week` flag would improve accuracy
 - **Per-mess dish variation** — if menus start varying month to month, dish weights will become genuinely dynamic features
-- **More months of data** — the single biggest lever to reduce the CV MAPE from ~33% toward ~10%
+- **More months of data** — the single biggest lever to reduce the CV MAPE toward ~10%
 
 ---
 
